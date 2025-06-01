@@ -1,1 +1,1 @@
-insert the needed files
+This lab is part of a Technion course focused on learning Verilog. The course includes several tasks designed to help us understand Verilog through implementation on an FPGA. To apply and demonstrate our accumulated knowledge, we completed a final project: building a foosball game using Verilog. Below are the Quartus file for the game and a presentation summarizing the project

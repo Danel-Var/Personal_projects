@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppLab3_task3</string>
+    <string name="finish_string">FINISH</string>
+    <string name="start_new">START NEW ACTIVITY</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">app_Lab3_task5.1</string>
+    <string name="str_result">Result:</string>
+    <string name="str_enter_num">Enter new Number:</string>
+    <string name="str_enter_num_pls">Please enter a number</string>
+    <string name="str_enter_num_pls_diff">Please enter a different number</string>
+    <string name="str_calc">CALCULATE</string>
+    <string name="plus_url">https://nssl.technion.ac.il/exp/android/meet_01/task/files/plus.png</string>
+    <string name="minus_url">https://nssl.technion.ac.il/exp/android/meet_01/task/files/minus.png</string>
+    <string name="calc_num_str">"Calculated Number: "</string>
+    <string name="str_finish">FINISH</string>
+    <string name="initialNumber">initialNumber</string>
+    <string name="finalResult">finalResult</string>
+    <string name="userAgent">User-agent</string>
+    <string name="Mozilla_4">Mozilla/4.0</string>
+    <string name="Zero">0</string>
+    <string name="emptyStr">" "</string>
+
+</resources>

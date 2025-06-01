@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app_lab3_task2</string>
+    <string name="rating_str">"Selected rating is: "</string>
+    <string name="str_reset">RESET</string>
+    <string name="you_rated_str">You rated: %1$.1f stars</string>
+    <string name="zero_str">0.0</string>
+</resources>

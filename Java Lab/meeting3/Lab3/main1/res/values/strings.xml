@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppLab3</string>
+    <string name="helloworld">Hello Ori and Danel</string>
+    <string name="myColorText">My Color Text</string>
+    <string name="ENTER_TEXT">Enter Text</string>
+    <string name="str_red">RED</string>
+    <string name="str_green">GREEN</string>
+    <string name="str_blue">BLUE</string>
+    <string name="enter_b">ENTER</string>
+    <string name="B_CLEAR">CLEAR</string>
+</resources>
