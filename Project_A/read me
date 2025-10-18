@@ -1,0 +1,8 @@
+This project investigates tracking a sway pole in millimeter-wave (mmWave) communication systems. The proposed solution utilizes Direction of Arrival (DOA) estimation combined with an Extended Kalman Filter (EKF) to dynamically steer the phased array at the transmitter, thereby reducing packet loss.
+
+In addition, the project proposes methods to address antenna coupling effects and to handle an unknown number of transmitters within the MUSIC (Multiple Signal Classification) algorithm.
+
+Our results demonstrate the use of the Kalman filter with three different DOA estimation methods and analyze the impact of the ratio between the sampling rate and the pole’s movement frequency on the Mean Squared Error (MSE) of the estimated position.
+
+This work is part of the Technion Bachelor’s Degree Project, conducted under the supervision of the Communication Lab.
+A complete list of participants and resources can be found in the accompanying PDF file.
